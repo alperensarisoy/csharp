@@ -1,0 +1,15 @@
+C:\Users\Merteren\Desktop\alperen\type_conversation\bin\Debug\net6.0\type_conversation.exe
+C:\Users\Merteren\Desktop\alperen\type_conversation\bin\Debug\net6.0\type_conversation.deps.json
+C:\Users\Merteren\Desktop\alperen\type_conversation\bin\Debug\net6.0\type_conversation.runtimeconfig.json
+C:\Users\Merteren\Desktop\alperen\type_conversation\bin\Debug\net6.0\type_conversation.dll
+C:\Users\Merteren\Desktop\alperen\type_conversation\bin\Debug\net6.0\type_conversation.pdb
+C:\Users\Merteren\Desktop\alperen\type_conversation\obj\Debug\net6.0\type_conversation.csproj.AssemblyReference.cache
+C:\Users\Merteren\Desktop\alperen\type_conversation\obj\Debug\net6.0\type_conversation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merteren\Desktop\alperen\type_conversation\obj\Debug\net6.0\type_conversation.AssemblyInfoInputs.cache
+C:\Users\Merteren\Desktop\alperen\type_conversation\obj\Debug\net6.0\type_conversation.AssemblyInfo.cs
+C:\Users\Merteren\Desktop\alperen\type_conversation\obj\Debug\net6.0\type_conversation.csproj.CoreCompileInputs.cache
+C:\Users\Merteren\Desktop\alperen\type_conversation\obj\Debug\net6.0\type_conversation.dll
+C:\Users\Merteren\Desktop\alperen\type_conversation\obj\Debug\net6.0\refint\type_conversation.dll
+C:\Users\Merteren\Desktop\alperen\type_conversation\obj\Debug\net6.0\type_conversation.pdb
+C:\Users\Merteren\Desktop\alperen\type_conversation\obj\Debug\net6.0\type_conversation.genruntimeconfig.cache
+C:\Users\Merteren\Desktop\alperen\type_conversation\obj\Debug\net6.0\ref\type_conversation.dll
