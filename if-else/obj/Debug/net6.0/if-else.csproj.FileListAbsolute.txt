@@ -1,0 +1,15 @@
+C:\Users\legen\Desktop\C#\if-else\obj\Debug\net6.0\if-else.csproj.AssemblyReference.cache
+C:\Users\legen\Desktop\C#\if-else\obj\Debug\net6.0\if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legen\Desktop\C#\if-else\obj\Debug\net6.0\if-else.AssemblyInfoInputs.cache
+C:\Users\legen\Desktop\C#\if-else\obj\Debug\net6.0\if-else.AssemblyInfo.cs
+C:\Users\legen\Desktop\C#\if-else\obj\Debug\net6.0\if-else.csproj.CoreCompileInputs.cache
+C:\Users\legen\Desktop\C#\if-else\bin\Debug\net6.0\if-else.exe
+C:\Users\legen\Desktop\C#\if-else\bin\Debug\net6.0\if-else.deps.json
+C:\Users\legen\Desktop\C#\if-else\bin\Debug\net6.0\if-else.runtimeconfig.json
+C:\Users\legen\Desktop\C#\if-else\bin\Debug\net6.0\if-else.dll
+C:\Users\legen\Desktop\C#\if-else\bin\Debug\net6.0\ref\if-else.dll
+C:\Users\legen\Desktop\C#\if-else\bin\Debug\net6.0\if-else.pdb
+C:\Users\legen\Desktop\C#\if-else\obj\Debug\net6.0\if-else.dll
+C:\Users\legen\Desktop\C#\if-else\obj\Debug\net6.0\ref\if-else.dll
+C:\Users\legen\Desktop\C#\if-else\obj\Debug\net6.0\if-else.pdb
+C:\Users\legen\Desktop\C#\if-else\obj\Debug\net6.0\if-else.genruntimeconfig.cache
