@@ -1,0 +1,15 @@
+C:\Users\legen\Desktop\C#\methods\bin\Debug\net6.0\methods.exe
+C:\Users\legen\Desktop\C#\methods\bin\Debug\net6.0\methods.deps.json
+C:\Users\legen\Desktop\C#\methods\bin\Debug\net6.0\methods.runtimeconfig.json
+C:\Users\legen\Desktop\C#\methods\bin\Debug\net6.0\methods.dll
+C:\Users\legen\Desktop\C#\methods\bin\Debug\net6.0\ref\methods.dll
+C:\Users\legen\Desktop\C#\methods\bin\Debug\net6.0\methods.pdb
+C:\Users\legen\Desktop\C#\methods\obj\Debug\net6.0\methods.csproj.AssemblyReference.cache
+C:\Users\legen\Desktop\C#\methods\obj\Debug\net6.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legen\Desktop\C#\methods\obj\Debug\net6.0\methods.AssemblyInfoInputs.cache
+C:\Users\legen\Desktop\C#\methods\obj\Debug\net6.0\methods.AssemblyInfo.cs
+C:\Users\legen\Desktop\C#\methods\obj\Debug\net6.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\legen\Desktop\C#\methods\obj\Debug\net6.0\methods.dll
+C:\Users\legen\Desktop\C#\methods\obj\Debug\net6.0\ref\methods.dll
+C:\Users\legen\Desktop\C#\methods\obj\Debug\net6.0\methods.pdb
+C:\Users\legen\Desktop\C#\methods\obj\Debug\net6.0\methods.genruntimeconfig.cache
