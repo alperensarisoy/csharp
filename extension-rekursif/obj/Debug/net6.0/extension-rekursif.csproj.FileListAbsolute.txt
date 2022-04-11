@@ -1,0 +1,15 @@
+C:\Users\legen\Desktop\C#\extension-rekursif\bin\Debug\net6.0\extension-rekursif.exe
+C:\Users\legen\Desktop\C#\extension-rekursif\bin\Debug\net6.0\extension-rekursif.deps.json
+C:\Users\legen\Desktop\C#\extension-rekursif\bin\Debug\net6.0\extension-rekursif.runtimeconfig.json
+C:\Users\legen\Desktop\C#\extension-rekursif\bin\Debug\net6.0\extension-rekursif.dll
+C:\Users\legen\Desktop\C#\extension-rekursif\bin\Debug\net6.0\ref\extension-rekursif.dll
+C:\Users\legen\Desktop\C#\extension-rekursif\bin\Debug\net6.0\extension-rekursif.pdb
+C:\Users\legen\Desktop\C#\extension-rekursif\obj\Debug\net6.0\extension-rekursif.csproj.AssemblyReference.cache
+C:\Users\legen\Desktop\C#\extension-rekursif\obj\Debug\net6.0\extension-rekursif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legen\Desktop\C#\extension-rekursif\obj\Debug\net6.0\extension-rekursif.AssemblyInfoInputs.cache
+C:\Users\legen\Desktop\C#\extension-rekursif\obj\Debug\net6.0\extension-rekursif.AssemblyInfo.cs
+C:\Users\legen\Desktop\C#\extension-rekursif\obj\Debug\net6.0\extension-rekursif.csproj.CoreCompileInputs.cache
+C:\Users\legen\Desktop\C#\extension-rekursif\obj\Debug\net6.0\extension-rekursif.dll
+C:\Users\legen\Desktop\C#\extension-rekursif\obj\Debug\net6.0\ref\extension-rekursif.dll
+C:\Users\legen\Desktop\C#\extension-rekursif\obj\Debug\net6.0\extension-rekursif.pdb
+C:\Users\legen\Desktop\C#\extension-rekursif\obj\Debug\net6.0\extension-rekursif.genruntimeconfig.cache
