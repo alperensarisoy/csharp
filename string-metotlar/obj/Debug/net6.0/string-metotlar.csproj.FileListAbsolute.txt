@@ -1,0 +1,15 @@
+C:\Users\legen\Desktop\C#\string-metotlar\bin\Debug\net6.0\string-metotlar.exe
+C:\Users\legen\Desktop\C#\string-metotlar\bin\Debug\net6.0\string-metotlar.deps.json
+C:\Users\legen\Desktop\C#\string-metotlar\bin\Debug\net6.0\string-metotlar.runtimeconfig.json
+C:\Users\legen\Desktop\C#\string-metotlar\bin\Debug\net6.0\string-metotlar.dll
+C:\Users\legen\Desktop\C#\string-metotlar\bin\Debug\net6.0\ref\string-metotlar.dll
+C:\Users\legen\Desktop\C#\string-metotlar\bin\Debug\net6.0\string-metotlar.pdb
+C:\Users\legen\Desktop\C#\string-metotlar\obj\Debug\net6.0\string-metotlar.csproj.AssemblyReference.cache
+C:\Users\legen\Desktop\C#\string-metotlar\obj\Debug\net6.0\string-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legen\Desktop\C#\string-metotlar\obj\Debug\net6.0\string-metotlar.AssemblyInfoInputs.cache
+C:\Users\legen\Desktop\C#\string-metotlar\obj\Debug\net6.0\string-metotlar.AssemblyInfo.cs
+C:\Users\legen\Desktop\C#\string-metotlar\obj\Debug\net6.0\string-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\legen\Desktop\C#\string-metotlar\obj\Debug\net6.0\string-metotlar.dll
+C:\Users\legen\Desktop\C#\string-metotlar\obj\Debug\net6.0\ref\string-metotlar.dll
+C:\Users\legen\Desktop\C#\string-metotlar\obj\Debug\net6.0\string-metotlar.pdb
+C:\Users\legen\Desktop\C#\string-metotlar\obj\Debug\net6.0\string-metotlar.genruntimeconfig.cache
